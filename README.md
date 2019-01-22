@@ -8,5 +8,5 @@ Collection of my leetcode solutions and implementations of common data structure
 ![alt text](http://progressed.io/bar/16 "Completion Percentage") 
 
 # TODO List:
-⋅⋅* Modulus practice
-⋅⋅* Big-O practice
+* Modulus practice
+* Big-O practice
